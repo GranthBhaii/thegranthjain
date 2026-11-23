@@ -1,4 +1,5 @@
 {
+  "cleanUrls": true,
   "rewrites": [
     {
       "source": "/(home|work|my-story|contact|web-development|minecraft-servers|discord-servers|management|ability-card)",
